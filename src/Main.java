@@ -11,6 +11,7 @@ void main() {
         IO.println("i = " + i);
     }
     /**
-     * New comment
-     */
+     * New comment1
+     *
+     **/
 }
